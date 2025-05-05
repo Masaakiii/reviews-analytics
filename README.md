@@ -30,4 +30,4 @@ python reviews_analytics.py
 
 🧑‍💻 作者
 
-Masaakiii
+[Masaakiii](https://github.com/Masaakiii)
